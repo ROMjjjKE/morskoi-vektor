@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://morskov-vector.by/sitemap.xml
